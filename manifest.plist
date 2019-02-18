@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://39.107.205.90:8888/houtai/zgqp/lf-resigned.ipa</string>
+                    <string>http://zgqp.51phonegame.com/houtai/zgqp/aa-resigned1.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>lf-resigned.ipa</string>
+                <string>aa-resigned.ipa</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>龙凤娱乐</string>
+                <string>cmcapp</string>
             </dict>
         </dict>
     </array>
