@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://zgqp.51phonegame.com/houtai/zgqp/aa-resigned1.ipa</string>
+                    <string>http://39.107.205.90:8888/houtai/zgqp/lf-resigned.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>aa-resigned.ipa</string>
+                <string>lf-resigned.ipa</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
